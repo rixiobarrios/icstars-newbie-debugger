@@ -100,4 +100,4 @@ The only last name left for Jane is the Irving in her original statement.
 3. Perry Nathan, drafter, 38
 4. Opal King, test car driver, 55
 
-**Note: An attempt to code this problem is in the file script.js**# icstars-newby-debugger
+**Note: An attempt to code this problem is in the file script.js**
