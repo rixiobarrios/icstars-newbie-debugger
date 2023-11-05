@@ -89,9 +89,15 @@ The only last name left for Jane is the Irving in her original statement.
 
 ```Answer: Larry Mendle is age 32```
 
-Answers:
+- Worksheet:
 
-1. 
+<img width="799" alt="Screenshot 2023-11-04 at 11 29 44 PM" src="https://github.com/rixiobarrios/icstars-newby-debugger/assets/55994508/12c3e3b6-a545-4bf6-b67c-1b342e1bcf23">
 
+- Answers:
+
+1. Jane Irving, pilot, 45
+2. Larry Mendle, police sergeant, 32
+3. Perry Nathan, drafter, 38
+4. Opal King, test car driver, 55
 
 **Note: An attempt to code this problem is in the file script.js**# icstars-newby-debugger
