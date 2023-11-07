@@ -81,11 +81,11 @@ The only last name left for Jane is the Irving in her original statement.
 
 ```Answer: Jane is a pilot```
 
-7. Opal King gets paired with his original age.
+7. Opal King gets paired with her original age.
 
 ```Answer: Opal King is age 55```
 
-8. Ane the only age left is "32", that goes to Larry Mendle.
+8. Jane the only age left is "32", that goes to Larry Mendle.
 
 ```Answer: Larry Mendle is age 32```
 
@@ -99,5 +99,50 @@ The only last name left for Jane is the Irving in her original statement.
 2. Larry Mendle, police sergeant, 32
 3. Perry Nathan, drafter, 38
 4. Opal King, test car driver, 55
+
+**Newbie Debugger Rework**
+
+According to the reviewer, these answers are wrong.
+I will attempt to find the correct answer based on the new information I was given regarding my previous conclusion.
+
+1. All first names and last names are correct
+2. Only two jobs matched with their first name and last name
+3. Only one age matched with its first name and last name.
+
+**Problem Solving**
+
+1. Jane's last name is Irving, which means her age is not "45".
+```Answer: Jane Irving is not 45```
+
+2. Jane's age is not "45", which means she is "a pilot".
+```Answer: Jane Irving is a pilot```
+
+3. Opal king's name is not Perry, which means she "drive test cars"
+```Answer: Opal King drives test cars```
+
+4. Opal king "drive test cars", which means her age is not 55, since test cars is already taken.
+```Answer: Opal King is not 55```
+
+5. Perry Nathan mentions his age is "38" in both of his interviews, which means he age is "38".
+```Answer: Perry Nathan is 38```
+
+6. If Perry Nathan's age is 38, it means he is not "a drafter" nor does he "drive a test car". The only job left is "a police sergeant".
+```Answer: Perry Nathan is a police sergeant```
+
+7. Larry Mendle cannot be "a pilot", "drive test cars" or be "a police sergeant", the only job left is "drafter".
+```Answer: Larry Mendle is a drafter```
+
+8. Larry Mendle is not "a police sergeant", which means he is age "45".
+```Answer: Larry Mendle is 45```
+
+9. If Opal King's age is not "55", it means he is "32" since its the only age left, making Jane Irving "55".
+```Answer: Jane Irving is 55```
+
+- New Answers:
+
+1. Jane Irving, pilot, 55
+2. Larry Mendle, drafter, 45
+3. Perry Nathan, police sergeant, 38
+4. Opal King, test car driver, 32
 
 **Note: An attempt to code this problem is in the file script.js**
