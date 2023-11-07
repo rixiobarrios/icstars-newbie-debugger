@@ -111,31 +111,31 @@ I will attempt to find the correct answer based on the new information I was giv
 
 **Problem Solving**
 
-1. Jane's last name is Irving, which means her age is not "45".
+1. Jane's last name is Irving, which means her age is not "45".  
 ```Answer: Jane Irving is not 45```
 
-2. Jane's age is not "45", which means she is "a pilot".
+2. Jane's age is not "45", which means she is "a pilot".  
 ```Answer: Jane Irving is a pilot```
 
-3. Opal king's name is not Perry, which means she "drive test cars"
+3. Opal king's name is not Perry, which means she "drive test cars".  
 ```Answer: Opal King drives test cars```
 
-4. Opal king "drive test cars", which means her age is not 55, since test cars is already taken.
+4. Opal king "drive test cars", which means her age is not 55, since test cars is already taken.  
 ```Answer: Opal King is not 55```
 
-5. Perry Nathan mentions his age is "38" in both of his interviews, which means he age is "38".
+5. Perry Nathan mentions his age is "38" in both of his interviews, which means he age is "38".  
 ```Answer: Perry Nathan is 38```
 
-6. If Perry Nathan's age is 38, it means he is not "a drafter" nor does he "drive a test car". The only job left is "a police sergeant".
+6. If Perry Nathan's age is 38, it means he is not "a drafter" nor does he "drive a test car". The only job left is "a police sergeant".  
 ```Answer: Perry Nathan is a police sergeant```
 
-7. Larry Mendle cannot be "a pilot", "drive test cars" or be "a police sergeant", the only job left is "drafter".
+7. Larry Mendle cannot be "a pilot", "drive test cars" or be "a police sergeant", the only job left is "drafter".  
 ```Answer: Larry Mendle is a drafter```
 
-8. Larry Mendle is not "a police sergeant", which means he is age "45".
+8. Larry Mendle is not "a police sergeant", which means he is age "45".  
 ```Answer: Larry Mendle is 45```
 
-9. If Opal King's age is not "55", it means he is "32" since its the only age left, making Jane Irving "55".
+9. If Opal King's age is not "55", it means he is "32" since its the only age left, making Jane Irving "55".  
 ```Answer: Jane Irving is 55```
 
 - New Answers:
